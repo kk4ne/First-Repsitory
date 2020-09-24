@@ -1,5 +1,6 @@
-#include <sum>
 #include <iostream>
+#include <sum.h>
+#include <dif.h>
 using namespace std;
 void main() {
      cout <<" Hello, GIT" << endl;
